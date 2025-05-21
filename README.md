@@ -5,5 +5,5 @@ This utility uses "hashlib" python module to calculate hash.<br>
 Supports MD5, SHA-1, SHA-256, SHA-512, and more.
 ## Usage
 `python shacalc.py {argument1} {argument2}`<br>
-Use `-help` to view full help page.
+Use `-help` to view full help page.<br>
 Example: `python shacalc sha256 testfile.txt`
