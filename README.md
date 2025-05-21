@@ -1,0 +1,2 @@
+# SHA-Calc
+Checksum utility
