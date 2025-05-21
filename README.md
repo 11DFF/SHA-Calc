@@ -6,6 +6,7 @@ Supports MD5, SHA-1, SHA-256, SHA-512, and more.
 # Usage
 python shacalc.py {argument1} {argument2}<br>
 Arguments list:<br>
-  -h, --help - Help page<br>
-  -v - Version<br>
-  -algo - Supported algorithms<br>
+-h, --help - Help page<br>
+-v - Version<br>
+-algo - View supported algorithms<br>
+Example: python shacalc sha256 testfile.txt
