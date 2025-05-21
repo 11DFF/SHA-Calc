@@ -1,7 +1,3 @@
-# Code by 11DFF
-# This work © 2025 by 11DFF is licensed under Creative Commons Attribution-NoDerivatives 4.0 International
-# https://creativecommons.org/licenses/by-nd/4.0/legalcode.en
-
 import hashlib
 import sys
 
