@@ -4,7 +4,7 @@ import sys
 SupportedAlgo = hashlib.algorithms_available
 version = '1.0'
 CreditsAndLicense = 'This code written by 11DFF and licensed under MIT License.'\
-                    '\nTo view full license text, "LICENSE" file'
+                    '\nTo view full license text, open "LICENSE" file'
 
 # Checking argument1
 try:
