@@ -7,4 +7,5 @@ This utility uses "[hashlib](https://docs.python.org/3/library/hashlib.html)" py
 ## :wrench: Usage
 `python shacalc.py {argument1} {argument2}`<br>
 Use `-help` to view full help page.
-<br>Example: Run CMD (or Terminal) and type `python shacalc.py sha256 testfile.txt`
+> [!TIP]
+><br>Example: Run CMD (or Terminal) and type `python shacalc.py sha256 testfile.txt`
