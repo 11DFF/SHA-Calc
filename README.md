@@ -6,4 +6,4 @@ Supports SHA384, MD5, SHA512, BLAKE2s, SHA3_256, SHA3_512, SHA3_384, SHA1, SHAKE
 ## 🔧 Usage
 `python shacalc.py {argument1} {argument2}`<br>
 Use `-help` to view full help page.<br>
-> Example: Run CMD (or Terminal) and type `python shacalc.py sha256 testfile.txt`
+Example: Run CMD (or Terminal) and type `python shacalc.py sha256 testfile.txt`
