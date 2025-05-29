@@ -8,4 +8,4 @@ This utility uses "[hashlib](https://docs.python.org/3/library/hashlib.html)" py
 `python shacalc.py {argument1} {argument2}`<br>
 Use `-help` to view full help page.
 > [!TIP]
-><br>Example: Run CMD (or Terminal) and type `python shacalc.py sha256 testfile.txt`
+>Example: Run CMD (or Terminal) and type `python shacalc.py sha256 testfile.txt`
