@@ -2,7 +2,7 @@ import hashlib
 import sys
 
 SupportedAlgo = hashlib.algorithms_available
-version = '1.0'
+version = '1.1'
 CreditsAndLicense = 'This code written by 11DFF and licensed under MIT License.'\
                     '\nTo view full license text, open "LICENSE" file'
 
@@ -10,7 +10,8 @@ CreditsAndLicense = 'This code written by 11DFF and licensed under MIT License.'
 try:
     argument1 = sys.argv[1]
 except IndexError:
-    print('Error: argument1 not defined\nTry "python shacalc.py -h"')
+    print('Error: argument1 not defined\nTry "python shacalc.py -h" in CMD.exe or Terminal')
+    input('Press ENTER to exit...')
     sys.exit()
 
 # Help page
